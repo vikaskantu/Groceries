@@ -1,0 +1,125 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Fruits & Vegetables",
+      "isExpanded": true,
+      "order": 0
+    },
+    {
+      "id": 2,
+      "name": "Dairy & Eggs",
+      "isExpanded": false,
+      "order": 1
+    },
+    {
+      "id": 3,
+      "name": "Pantry",
+      "isExpanded": false,
+      "order": 2
+    }
+  ],
+  "items": [
+    {
+      "id": 1,
+      "categoryId": 1,
+      "name": "Bananas",
+      "quantity": 2,
+      "unit": "Nos.",
+      "referencePrice": "$4.99",
+      "colorState": 0,
+      "checked": true,
+      "order": 0
+    },
+    {
+      "id": 2,
+      "categoryId": 1,
+      "name": "Apples",
+      "quantity": 1,
+      "unit": "Kgs.",
+      "referencePrice": "$3.50",
+      "colorState": 1,
+      "checked": true,
+      "order": 1
+    },
+    {
+      "id": 3,
+      "categoryId": 1,
+      "name": "Carrots",
+      "quantity": 1,
+      "unit": "Nos.",
+      "referencePrice": "$2.99",
+      "colorState": 2,
+      "checked": false,
+      "order": 2
+    },
+    {
+      "id": 4,
+      "categoryId": 1,
+      "name": "Onions",
+      "quantity": 2,
+      "unit": "Kgs.",
+      "referencePrice": "$1.50",
+      "colorState": 3,
+      "checked": false,
+      "order": 3
+    },
+    {
+      "id": 5,
+      "categoryId": 1,
+      "name": "Tomatoes",
+      "quantity": 750,
+      "unit": "Gms.",
+      "referencePrice": "$3.99",
+      "colorState": 0,
+      "checked": false,
+      "order": 4
+    },
+    {
+      "id": 6,
+      "categoryId": 2,
+      "name": "Milk",
+      "quantity": 2,
+      "unit": "Nos.",
+      "referencePrice": "$5.99",
+      "colorState": 1,
+      "checked": false,
+      "order": 0
+    },
+    {
+      "id": 7,
+      "categoryId": 2,
+      "name": "Eggs",
+      "quantity": 12,
+      "unit": "Nos.",
+      "referencePrice": "$4.50",
+      "colorState": 2,
+      "checked": false,
+      "order": 1
+    },
+    {
+      "id": 8,
+      "categoryId": 2,
+      "name": "Cheese",
+      "quantity": 250,
+      "unit": "Gms.",
+      "referencePrice": "$7.99",
+      "colorState": 3,
+      "checked": false,
+      "order": 2
+    },
+    {
+      "categoryId": 1,
+      "name": "Test",
+      "quantity": 1,
+      "unit": "Nos.",
+      "referencePrice": "",
+      "colorState": 0,
+      "checked": false,
+      "order": 5,
+      "id": 9
+    }
+  ],
+  "currentCategoryId": 4,
+  "currentItemId": 10
+}
